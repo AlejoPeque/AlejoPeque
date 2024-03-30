@@ -6,30 +6,13 @@
 <h3>Front-End Developer</h3>
 
 ---
-
-## Contact me 🐧
-<div>
-    <p align="">
-       <a href="https://alejo-pequeno-site.vercel.app/" target="blank"><img align="center"
-         src="https://github.com/alepeque9/perfileImg/blob/main/portfolio.png?raw=true"
-         alt="azzar" height="30"/></a>
-      <a href="https://www.linkedin.com/in/alejo-peque%C3%B1o/" target="blank"><img align="center"
-         src="https://github.com/alepeque9/perfileImg/blob/main/linkedin.png?raw=true"
-         alt="azzar" height="30"/></a>
-      <a href="https://www.instagram.com/alejo.peq/" target="blank"><img align="center"
-         src="https://github.com/alepeque9/perfileImg/blob/main/insta.png?raw=true"
-         alt="azzar" height="30"/></a>
-      <a href="mailto:alejopequeno25@gmail.com" target="blank"><img align="center"
-         src="https://github.com/alepeque9/perfileImg/blob/main/gmail.png?raw=true"
-         alt="azzar" height="30"/></a>
-    </p>
-</div>
-
 ## About me 🦸🏻‍♂️
 * 🌍  I'm based in Buenos Aires, Argentina
-* 🖥️  See my portfolio at [my website](http://alejo-pequeno-site.vercel.app)
-* ✉️  You can contact me at [alejopequeno25@gmail.com](mailto:alejopequeno25@gmail.com)
 * 🚀  I'm currently working on [Prisma medios de pago](http://prismamediosdepago.com)
+* 🖥️  See my portfolio at [My website](http://alejo-pequeno-site.vercel.app)
+* ✉️  You can contact me at [alejopequeno25@gmail.com](mailto:alejopequeno25@gmail.com)
+* 🔗 Connect with me on LinkedIn! [LinkedIn](https://www.linkedin.com/in/alejo-peque%C3%B1o/)
+* 📸 Follow me on Instagram! [Instagram](https://www.instagram.com/alejo.peq/)
 * 🤝  I'm open to collaborating on innovative projects
 
 ## Skill Set 💪🏻
