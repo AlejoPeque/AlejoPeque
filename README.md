@@ -11,9 +11,9 @@
 * 🚀  I'm currently working on [Prisma medios de pago](http://prismamediosdepago.com)
 * 🖥️  See my portfolio at [My website](http://alejo-pequeno-site.vercel.app)
 * ✉️  You can contact me at [alejopequeno25@gmail.com](mailto:alejopequeno25@gmail.com)
-* 🔗 Connect with me on LinkedIn! [LinkedIn](https://www.linkedin.com/in/alejo-peque%C3%B1o/)
-* 📸 Follow me on Instagram! [Instagram](https://www.instagram.com/alejo.peq/)
-* 🤝 I'm open to collaborating on innovative projects
+* 🔗  Connect with me on LinkedIn! [LinkedIn](https://www.linkedin.com/in/alejo-peque%C3%B1o/)
+* 📸  Follow me on Instagram! [Instagram](https://www.instagram.com/alejo.peq/)
+* 🤝  I'm open to collaborating on innovative projects
 
 ## Skill Set 💪🏻
 
