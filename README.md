@@ -10,6 +10,9 @@
 ## Contact me 🐧
 <div>
     <p align="">
+       <a href="https://alejo-pequeno-site.vercel.app/" target="blank"><img align="center"
+         src="https://github.com/alepeque9/perfileImg/blob/main/portfolio.png?raw=true"
+         alt="azzar" height="30"/></a>
       <a href="https://www.linkedin.com/in/alejo-peque%C3%B1o/" target="blank"><img align="center"
          src="https://github.com/alepeque9/perfileImg/blob/main/linkedin.png?raw=true"
          alt="azzar" height="30"/></a>
