@@ -6,6 +6,23 @@
 <h3>Front-End Developer</h3>
 
 ---
+
+## Contact me 🐧
+<div>
+    <p align="">
+      <a href="https://www.linkedin.com/in/alejo-peque%C3%B1o/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://www.instagram.com/alejo.peq/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="mailto:alejopequeno25@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
+</div>
+
+---
 ## About me 🦸🏻‍♂️
 * 🌍  I'm based in Buenos Aires, Argentina
 * 🖥️  See my portfolio at [my website](http://alejo-pequeno-site.vercel.app)
@@ -46,6 +63,9 @@ These are some of the major technologies that I use or have worked on in the pas
     </td>
     <td style="border: 1px solid black; padding: 5px;">
       <img title="Next JS" alt="Next JS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg">
+    </td>
+    <td style="border: 1px solid black; padding: 5px;">
+      <img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" />
     </td>
     <td style="border: 1px solid black; padding: 5px;">
       <img title="Framer Motion" alt="Framer Motion" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/framermotion/framermotion-original.svg">
