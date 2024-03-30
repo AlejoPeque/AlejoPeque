@@ -11,13 +11,13 @@
 <div>
     <p align="">
       <a href="https://www.linkedin.com/in/alejo-peque%C3%B1o/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         src="https://github.com/alepeque9/perfileImg/blob/main/linkedin.png?raw=true"
          alt="azzar" height="30"/></a>
       <a href="https://www.instagram.com/alejo.peq/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         src="https://github.com/alepeque9/perfileImg/blob/main/insta.png?raw=true"
          alt="azzar" height="30"/></a>
       <a href="mailto:alejopequeno25@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         src="https://github.com/alepeque9/perfileImg/blob/main/gmail.png?raw=true"
          alt="azzar" height="30"/></a>
     </p>
 </div>
