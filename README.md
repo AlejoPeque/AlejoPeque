@@ -22,7 +22,6 @@
     </p>
 </div>
 
----
 ## About me 🦸🏻‍♂️
 * 🌍  I'm based in Buenos Aires, Argentina
 * 🖥️  See my portfolio at [my website](http://alejo-pequeno-site.vercel.app)
