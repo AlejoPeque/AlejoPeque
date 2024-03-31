@@ -8,7 +8,7 @@
 ---
 ## About me 🦸🏻‍♂️
 * 🌍 I'm based in Buenos Aires, Argentina
-* 🚀 I'm currently working on [Prisma medios de pago](https://www.prismamediosdepago.com/)
+* 🚀 I'm currently working on [Prisma medios de pago](https://www.prismamediosdepago.com)
 * 🖥️ See my portfolio at [My website](http://alejo-pequeno-site.vercel.app)
 * ✉️ You can contact me at [alejopequeno25@gmail.com](mailto:alejopequeno25@gmail.com)
 * 🔗 Connect with me on LinkedIn! [LinkedIn](https://www.linkedin.com/in/alejo-peque%C3%B1o/)
