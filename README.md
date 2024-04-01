@@ -55,6 +55,10 @@ These are some of the major technologies that I use or have worked on in the pas
     <td style="border: 1px solid black; padding: 5px;">
       <img title="Framer Motion" alt="Framer Motion" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/framermotion/framermotion-original.svg">
     </td>
+  </tr>
+</table>
+<table>
+  <tr>
     <td style="border: 1px solid black; padding: 5px;">
       <img title="Vite" alt="Vite" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vitejs/vitejs-original.svg" />
     </td>
@@ -110,10 +114,21 @@ These are some of the major technologies that I use or have worked on in the pas
       <img title="Figma" alt="Figma" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg">
     </td>
     <td style="border: 1px solid black; padding: 5px;">
+      <img title="Adobe XD" alt="Adobe XD" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/xd/xd-original.svg">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="border: 1px solid black; padding: 5px;">
       <img title="Illustrator" alt="Illustrator" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/illustrator/illustrator-plain.svg">
     </td>
     <td style="border: 1px solid black; padding: 5px;">
       <img title="Photoshop" alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/photoshop/photoshop-original.svg">
+    </td>
+    <td style="border: 1px solid black; padding: 5px;">
+      <img title="Notion" alt="Notion" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/notion/notion-original.svg">
     </td>
   </tr>
 </table>
