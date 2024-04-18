@@ -7,13 +7,7 @@
 
 
 ## About me 💻
-* 🌍 I'm based in Buenos Aires, Argentina
-* 🚀 I'm currently working on [Prisma medios de pago](https://www.prismamediosdepago.com)
-* 🖥️ See my portfolio at [My website](http://alejo-pequeno-site.vercel.app)
-* ✉️ You can contact me at [alejopequeno25@gmail.com](mailto:alejopequeno25@gmail.com)
-* 🔗 Connect with me on LinkedIn! [LinkedIn](https://www.linkedin.com/in/alejo-peque%C3%B1o/)
-* 📸 Follow me on Instagram! [Instagram](https://www.instagram.com/alejo.peq/)
-* 🤝 I'm open to collaborating on innovative projects
+<b>Full stack developer</b> with a passion for creating innovative and creative solutions 🚀. My specialization lies in <b>UX/UI Development</b>, where I focus on designing original and user-friendly interfaces. In addition to my experience in web development, I am a <b>Multimedia Designer</b> 🖌️, with skills in motion graphics, 3D modeling and animation, as well as graphic design. This wide range of skills has allowed me to master <b>Framer Motion</b>, a tool I use to incorporate impactful animations into the websites I develop. Always in constant learning and improvement. 🌟
 
 ## Skill Set 🛠️
 
