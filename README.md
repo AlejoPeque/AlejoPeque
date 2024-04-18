@@ -2,11 +2,11 @@
   <img src="https://github.com/alepeque9/perfileImg/blob/main/Mesa%20de%20trabajo%201.png?raw=true" />
 </p>
 
-<h1>Hi 🖖🏻, I'm <a href="https://www.linkedin.com/in/alejo-peque%C3%B1o/" target="_blank">Alejo</a></h1>
-<h3>Front-End Developer</h3>
+<h1>Hi 🖖🏻, I'm <a href="https://www.linkedin.com/in/alejo-peque%C3%B1o/" target="_blank">Alejo</a> <br/>
+<span>Full Stack Developer 🧑🏻‍💻</span></h1>
 
----
-## About me 🦸🏻‍♂️
+
+## About me 💻
 * 🌍 I'm based in Buenos Aires, Argentina
 * 🚀 I'm currently working on [Prisma medios de pago](https://www.prismamediosdepago.com)
 * 🖥️ See my portfolio at [My website](http://alejo-pequeno-site.vercel.app)
@@ -15,7 +15,7 @@
 * 📸 Follow me on Instagram! [Instagram](https://www.instagram.com/alejo.peq/)
 * 🤝 I'm open to collaborating on innovative projects
 
-## Skill Set 💪🏻
+## Skill Set 🛠️
 
 These are some of the major technologies that I use or have worked on in the past:
 
