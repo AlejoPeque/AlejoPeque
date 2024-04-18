@@ -7,7 +7,7 @@
 
 
 ## About me 💻
-I'm a <b>full stack developer</b> passionate about creating innovative and creative solutions with strong focus on <b>UX/UI Development</b> to design original and user-friendly interfaces 🚀. 
+I'm a <b>Full Stack Developer</b> passionate about creating innovative and creative solutions with strong focus on <b>UX/UI Development</b> to design original and user-friendly interfaces 🚀. 
 This, combined with my <b>Multimedia Design</b> skills such as motion graphics, 3D modeling and animation and graphic design 🖌️, allows me to master <b>Framer Motion</b>, a tool I use to incorporate impactful animations into the websites I develop. Always in constant learning and improvement. 🌟
 
 ## Skill Set 🛠️
