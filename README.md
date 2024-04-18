@@ -2,7 +2,7 @@
   <img src="https://github.com/alepeque9/perfileImg/blob/main/Mesa%20de%20trabajo%201.png?raw=true" />
 </p>
 
-<h1>Hi 🖖🏻, I'm Alejo Pequeño</h1>
+<h1>Hi 🖖🏻, I'm <a href="https://www.linkedin.com/in/alejo-peque%C3%B1o/" target="_blank">Alejo</a></h1>
 <h3>Front-End Developer</h3>
 
 ---
