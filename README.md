@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/alepeque9/perfileImg/blob/main/Mesa%20de%20trabajo%201.png?raw=true" />
+  <img src="https://github.com/AlejoPeque/perfileImg/blob/main/Nueva%20Pic.png?raw=true" />
 </p>
 
 <h1>Hi 🖖🏻, I'm <a href="https://www.linkedin.com/in/alejo-peque%C3%B1o/" target="_blank">Alejo</a>! <br/>
