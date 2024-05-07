@@ -27,9 +27,6 @@ These are some of the major technologies that I use or have worked on in the pas
     <td style="border: 1px solid black; padding: 5px;">
       <img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     </td>
-    <td style="border: 1px solid black; padding: 5px;">
-      <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-    </td>
   </tr>
 </table>
 
@@ -64,7 +61,7 @@ These are some of the major technologies that I use or have worked on in the pas
       <img title="Node js" alt="Node js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original.svg" />
     </td>
     <td style="border: 1px solid black; padding: 5px;">
-      <img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg" />
+      <img title="Nest JS" alt="Nest JS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nestjs/nestjs-original.svg" />
     </td>
   </tr>
 </table>
@@ -84,9 +81,6 @@ These are some of the major technologies that I use or have worked on in the pas
 **Databases**
 <table>
   <tr>
-    <td style="border: 1px solid black; padding: 5px;">
-      <img alt="SQL" title="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
-    </td>
     <td style="border: 1px solid black; padding: 5px;">
       <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg">
     </td>
@@ -132,4 +126,4 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **• Thanks for watching •**
 <br />
-Last Edited on: 29/03/2024
+Last Edited on: 07/05/2024
