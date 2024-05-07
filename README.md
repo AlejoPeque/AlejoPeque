@@ -100,10 +100,10 @@ These are some of the major technologies that I use or have worked on in the pas
       <img title="Postman" alt="Postman" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg">
     </td>
     <td style="border: 1px solid black; padding: 5px;">
-      <img title="Figma" alt="Figma" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg">
+      <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original-wordmark.svg">
     </td>
     <td style="border: 1px solid black; padding: 5px;">
-      <img title="Adobe XD" alt="Adobe XD" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/xd/xd-original.svg">
+      <img title="Figma" alt="Figma" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg">
     </td>
   </tr>
 </table>
