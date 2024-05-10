@@ -10,6 +10,30 @@
 I'm a <b>Full Stack Developer</b> passionate about creating innovative and creative solutions with strong focus on <b>UX & UI design</b> to develop original and user-friendly interfaces 🚀. 
 This, combined with my <b>Multimedia Design</b> skills such as motion graphics, 3D modeling and animation and graphic design 🖌️, allows me to master <b>Framer Motion</b>, a tool I use to incorporate impactful animations into the websites I develop. Always in constant learning and improvement. 🌟
 
+## Last Projects 👽
+
+<table>
+  <thead>
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>🤖 Tech</b></td>
+      <td><b>📅 Last Update</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/AlejoPeque/portfolio_next"><b>Template Portfolio with Framer Motion</b></a></td>
+      <td>Next JS</td>
+      <td>13/11/2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AlejoPeque/rauno-inspo-portfolio"><b>Remake Portfolio Rauno • Next JS</b></a></td>
+      <td>Vite • React JS</td>
+      <td>28/04/2024</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Skill Set 🛠️
 
 These are some of the major technologies that I use or have worked on in the past:
