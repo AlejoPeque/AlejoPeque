@@ -27,9 +27,11 @@ These are some of the major technologies that I use or have worked on in the pas
     <td style="border: 1px solid black; padding: 5px;">
       <img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     </td>
+    <td style="border: 1px solid black; padding: 5px;">
+      <img title="Golang" alt="Golang" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original.svg">
+    </td>
   </tr>
 </table>
-
 
 **Libraries and Frameworks**
 
