@@ -22,9 +22,9 @@ This, combined with my <b>Multimedia Design</b> skills such as motion graphics, 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/AlejoPeque/portfolio_next"><b>Template Portfolio with Framer Motion</b></a></td>
-      <td>Next JS</td>
-      <td>13/11/2023</td>
+      <td><a href="https://github.com/AlejoPeque/prueba-frontend-dezure"><b>Skill Test • Dezure</b></a></td>
+      <td>Next JS • TypeScript</td>
+      <td>10/05/2024</td>
     </tr>
     <tr>
       <td><a href="https://github.com/AlejoPeque/rauno-inspo-portfolio"><b>Remake Portfolio Rauno • Next JS</b></a></td>
