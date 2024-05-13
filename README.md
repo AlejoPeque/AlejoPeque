@@ -73,18 +73,21 @@ These are some of the major technologies that I use or have worked on in the pas
     <td style="border: 1px solid black; padding: 5px;">
       <img title="Framer Motion" alt="Framer Motion" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/framermotion/framermotion-original.svg">
     </td>
+    <td style="border: 1px solid black; padding: 5px;">
+      <img title="Vite" alt="Vite" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vitejs/vitejs-original.svg" />
+    </td>
   </tr>
 </table>
 <table>
   <tr>
     <td style="border: 1px solid black; padding: 5px;">
-      <img title="Vite" alt="Vite" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vitejs/vitejs-original.svg" />
-    </td>
-    <td style="border: 1px solid black; padding: 5px;">
       <img title="Redux" alt="Redux" width="40px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" />
     </td>
     <td style="border: 1px solid black; padding: 5px;">
       <img title="Spring Boot" alt="Spring Boot" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg" />
+    </td>
+    <td style="border: 1px solid black; padding: 5px;">
+      <img title="Node JS" alt="Node JS" width="40px" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" />
     </td>
     <td style="border: 1px solid black; padding: 5px;">
       <img title="Nest JS" alt="Nest JS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nestjs/nestjs-original.svg" />
@@ -131,6 +134,9 @@ These are some of the major technologies that I use or have worked on in the pas
     <td style="border: 1px solid black; padding: 5px;">
       <img title="Figma" alt="Figma" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg">
     </td>
+    <td style="border: 1px solid black; padding: 5px;">
+      <img title="Notion" alt="Notion" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/notion/notion-original.svg">
+    </td>
   </tr>
 </table>
 
@@ -141,9 +147,6 @@ These are some of the major technologies that I use or have worked on in the pas
     </td>
     <td style="border: 1px solid black; padding: 5px;">
       <img title="Photoshop" alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/photoshop/photoshop-original.svg">
-    </td>
-    <td style="border: 1px solid black; padding: 5px;">
-      <img title="Notion" alt="Notion" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/notion/notion-original.svg">
     </td>
   </tr>
 </table>
