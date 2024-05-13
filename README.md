@@ -81,10 +81,10 @@ These are some of the major technologies that I use or have worked on in the pas
       <img title="Vite" alt="Vite" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vitejs/vitejs-original.svg" />
     </td>
     <td style="border: 1px solid black; padding: 5px;">
-      <img title="Spring Boot" alt="Spring Boot" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg" />
+      <img title="Redux" alt="Redux" width="40px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" />
     </td>
     <td style="border: 1px solid black; padding: 5px;">
-      <img title="Node js" alt="Node js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original.svg" />
+      <img title="Spring Boot" alt="Spring Boot" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg" />
     </td>
     <td style="border: 1px solid black; padding: 5px;">
       <img title="Nest JS" alt="Nest JS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nestjs/nestjs-original.svg" />
