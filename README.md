@@ -2,6 +2,7 @@
   <img src="https://github.com/AlejoPeque/perfileImg/blob/main/Nueva%20Pic.png?raw=true" />
 </p>
 
+
 <h1>Hi 🖖🏻, I'm <a href="https://www.linkedin.com/in/alejo-peque%C3%B1o/" target="_blank">Alejo</a>! <br/>
 <span>Full Stack Developer 🧑🏻‍💻</span></h1>
 
