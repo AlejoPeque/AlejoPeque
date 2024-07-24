@@ -127,7 +127,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <table>
   <tr>
     <td style="border: 1px solid black; padding: 5px;">
-      <img alt="Visual Studio Code" title="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg">
+      <img alt="NeoVim" title="NeoVim" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/neovim/neovim-original.svg">
     </td>
     <td style="border: 1px solid black; padding: 5px;">
       <img title="Postman" alt="Postman" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg">
