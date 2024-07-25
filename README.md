@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AlejoPeque/perfileImg/blob/main/Nueva%20Pic.png?raw=true" />
+  <img src="https://github.com/AlejoPeque/perfileImg/blob/main/Nueva%20Pic.png?raw=true" width='800px' />
 </p>
 
 
@@ -49,15 +49,6 @@ These are some of the major technologies that I use or have worked on in the pas
     <td style="border: 1px solid black; padding: 5px;">
       <img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg">
     </td>
-    <td style="border: 1px solid black; padding: 5px;">
-      <img title="Python" alt="Python" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-python-3628999-3030224.png?f=webp">
-    </td>
-    <td style="border: 1px solid black; padding: 5px;">
-      <img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    </td>
-    <td style="border: 1px solid black; padding: 5px;">
-      <img title="Golang" alt="Golang" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original.svg">
-    </td>
   </tr>
 </table>
 
@@ -79,22 +70,6 @@ These are some of the major technologies that I use or have worked on in the pas
     </td>
     <td style="border: 1px solid black; padding: 5px;">
       <img title="Vite" alt="Vite" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vitejs/vitejs-original.svg" />
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td style="border: 1px solid black; padding: 5px;">
-      <img title="Redux" alt="Redux" width="40px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" />
-    </td>
-    <td style="border: 1px solid black; padding: 5px;">
-      <img title="Spring Boot" alt="Spring Boot" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg" />
-    </td>
-    <td style="border: 1px solid black; padding: 5px;">
-      <img title="Node JS" alt="Node JS" width="40px" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" />
-    </td>
-    <td style="border: 1px solid black; padding: 5px;">
-      <img title="Nest JS" alt="Nest JS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nestjs/nestjs-original.svg" />
     </td>
   </tr>
 </table>
@@ -138,20 +113,6 @@ These are some of the major technologies that I use or have worked on in the pas
     <td style="border: 1px solid black; padding: 5px;">
       <img title="Figma" alt="Figma" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg">
     </td>
-    <td style="border: 1px solid black; padding: 5px;">
-      <img title="Notion" alt="Notion" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/notion/notion-original.svg">
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td style="border: 1px solid black; padding: 5px;">
-      <img title="Illustrator" alt="Illustrator" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/illustrator/illustrator-plain.svg">
-    </td>
-    <td style="border: 1px solid black; padding: 5px;">
-      <img title="Photoshop" alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/photoshop/photoshop-original.svg">
-    </td>
   </tr>
 </table>
 
@@ -159,4 +120,4 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **• Thanks for watching •**
 <br />
-Last Edited on: 10/05/2024
+Last Edited on: 25/07/2024
