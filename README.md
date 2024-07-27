@@ -37,7 +37,7 @@ This, combined with my <b>Multimedia Design</b> skills such as motion graphics, 
 
 ## Skill Set 🛠️
 
-These are some of the major technologies that I use or have worked on in the past:
+These are the technologies that I specialize in:
 
 **Programming Languages**
 
