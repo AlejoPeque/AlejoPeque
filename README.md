@@ -68,6 +68,8 @@ These are the technologies that I specialize in:
     <td style="border: 1px solid black; padding: 5px;">
       <img title="Framer Motion" alt="Framer Motion" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/framermotion/framermotion-original.svg">
     </td>
+  </tr>
+  <tr>
     <td style="border: 1px solid black; padding: 5px;">
       <img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" />
     </td>
