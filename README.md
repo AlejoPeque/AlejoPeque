@@ -11,7 +11,7 @@
 I'm a <b>Frontend Developer</b> passionate about creating innovative and creative solutions with strong focus on <b>UX & UI design</b> to develop original and user-friendly interfaces 🚀. 
 This, combined with my <b>Multimedia Design</b> skills such as motion graphics, 3D modeling and animation and graphic design 🖌️, allows me to master <b>Framer Motion</b>, a tool I use to incorporate impactful animations into the websites I develop. Always in constant learning and improvement. 🌟
 
-## Last Projects 👽
+## Best Proyects 👽
 
 <table>
   <thead>
@@ -23,14 +23,14 @@ This, combined with my <b>Multimedia Design</b> skills such as motion graphics, 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/AlejoPeque/prueba-frontend-dezure"><b>Skill Test • Dezure</b></a></td>
-      <td>Next JS • TypeScript</td>
-      <td>10/05/2024</td>
+      <td><a href="https://github.com/AlejoPeque/antiria_node"><b>Antiria</b></a></td>
+      <td>Node JS • Express • MySQL • JavaScript</td>
+      <td>02/11/2023</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AlejoPeque/rauno-inspo-portfolio"><b>Remake Portfolio Rauno • Next JS</b></a></td>
-      <td>Vite • React JS</td>
-      <td>28/04/2024</td>
+      <td><a href="https://github.com/AlejoPeque/dotfiles"><b>.dotfiles</b></a></td>
+      <td>My Neovim and Tmux setup, using NvChad.</td>
+      <td>26/07/2024</td>
     </tr>
   </tbody>
 </table>
