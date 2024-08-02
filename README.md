@@ -11,7 +11,7 @@
 I'm a <b>Frontend Developer</b> passionate about creating innovative and creative solutions with strong focus on <b>UX & UI design</b> to develop original and user-friendly interfaces 🚀. 
 This, combined with my <b>Multimedia Design</b> skills such as motion graphics, 3D modeling and animation and graphic design 🖌️, allows me to master <b>Framer Motion</b>, a tool I use to incorporate impactful animations into the websites I develop. Always in constant learning and improvement. 🌟
 
-## Best Proyects 👽
+## Best Projects 👽
 
 <table>
   <thead>
