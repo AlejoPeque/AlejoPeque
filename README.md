@@ -29,7 +29,7 @@ This, combined with my <b>Multimedia Design</b> skills such as motion graphics, 
     </tr>
     <tr>
       <td><a href="https://github.com/AlejoPeque/dotfiles"><b>.dotfiles</b></a></td>
-      <td>My Neovim and Tmux setup, using NvChad.</td>
+      <td>My Neovim setup 🗿</td>
       <td>26/07/2024</td>
     </tr>
   </tbody>
