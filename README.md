@@ -66,15 +66,18 @@ These are the technologies that I specialize in:
       <img title="Vite" alt="Vite" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vitejs/vitejs-original.svg" />
     </td>
     <td style="border: 1px solid black; padding: 5px;">
-      <img title="Framer Motion" alt="Framer Motion" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/framermotion/framermotion-original.svg">
+      <img title="Nest JS" alt="Nest JS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nestjs/nestjs-original.svg">
     </td>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 5px;">
+      <img title="Styled Components" alt="Styled Components" width="40px" src="https://www.daggala.com/static/228867c3668e439101821568a8a03b54/ec333/sc.png" />
+    </td>
+    <td style="border: 1px solid black; padding: 5px;">
       <img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" />
     </td>
     <td style="border: 1px solid black; padding: 5px;">
-      <img title="Styled Components" alt="Styled Components" width="40px" src="https://www.daggala.com/static/228867c3668e439101821568a8a03b54/ec333/sc.png" />
+      <img title="Framer Motion" alt="Framer Motion" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/framermotion/framermotion-original.svg">
     </td>
   </tr>
 </table>
