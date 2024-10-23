@@ -98,7 +98,7 @@ These are the technologies that I specialize in:
 <table>
   <tr>
     <td style="border: 1px solid black; padding: 5px;">
-      <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg">
+      <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original.svg">
     </td>
     <td style="border: 1px solid black; padding: 5px;">
       <img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg">
