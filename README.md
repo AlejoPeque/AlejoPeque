@@ -66,10 +66,10 @@ These are the technologies that I specialize in:
       <img title="Gsap" alt="Gsap" width="40px" src="https://static.wikia.nocookie.net/logopedia/images/a/a5/GSAP_2023.svg/revision/latest/scale-to-width-down/300?cb=20231024190052">
     </td>
      <td style="border: 1px solid black; padding: 5px;">
-      <img title="Three JS" alt="Three JS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/768px-Three.js_Icon.svg.png">
+      <img title="Three JS" alt="Three JS" width="40px" src="https://themightyprogrammer.dev/post/threejs.png">
     </td>
     <td style="border: 1px solid black; padding: 5px;">
-      <img title="Framer Motion" alt="Framer Motion" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/framermotion/framermotion-original.svg">
+      <img title="Motion" alt="Motion" width="40px" src="https://user-images.githubusercontent.com/7850794/164965509-2a8dc49e-2ed7-4243-a2c9-481b03bbc31a.png">
     </td>
   </tr>
   <tr>
