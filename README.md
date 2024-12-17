@@ -63,13 +63,19 @@ These are the technologies that I specialize in:
       <img title="Next JS" alt="Next JS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg">
     </td>
     <td style="border: 1px solid black; padding: 5px;">
-      <img title="Vite" alt="Vite" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vitejs/vitejs-original.svg" />
+      <img title="Gsap" alt="Gsap" width="40px" src="https://static.wikia.nocookie.net/logopedia/images/a/a5/GSAP_2023.svg/revision/latest/scale-to-width-down/300?cb=20231024190052">
+    </td>
+     <td style="border: 1px solid black; padding: 5px;">
+      <img title="Three JS" alt="Three JS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/768px-Three.js_Icon.svg.png">
     </td>
     <td style="border: 1px solid black; padding: 5px;">
-      <img title="Nest JS" alt="Nest JS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nestjs/nestjs-original.svg">
+      <img title="Framer Motion" alt="Framer Motion" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/framermotion/framermotion-original.svg">
     </td>
   </tr>
   <tr>
+    <td style="border: 1px solid black; padding: 5px;">
+      <img title="Sass" alt="Sass" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png">
+    </td>
     <td style="border: 1px solid black; padding: 5px;">
       <img title="Styled Components" alt="Styled Components" width="40px" src="https://www.daggala.com/static/228867c3668e439101821568a8a03b54/ec333/sc.png" />
     </td>
@@ -77,7 +83,10 @@ These are the technologies that I specialize in:
       <img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" />
     </td>
     <td style="border: 1px solid black; padding: 5px;">
-      <img title="Framer Motion" alt="Framer Motion" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/framermotion/framermotion-original.svg">
+      <img title="Vite" alt="Vite" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vitejs/vitejs-original.svg" />
+    </td>
+    <td style="border: 1px solid black; padding: 5px;">
+      <img title="Nest JS" alt="Nest JS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nestjs/nestjs-original.svg">
     </td>
   </tr>
 </table>
@@ -110,16 +119,16 @@ These are the technologies that I specialize in:
 <table>
   <tr>
     <td style="border: 1px solid black; padding: 5px;">
-      <img alt="NeoVim" title="NeoVim" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/neovim/neovim-original.svg">
+      <img alt="Visual Studio Code" title="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
+    </td>
+    <td style="border: 1px solid black; padding: 5px;">
+      <img title="Figma" alt="Figma" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg">
     </td>
     <td style="border: 1px solid black; padding: 5px;">
       <img title="Postman" alt="Postman" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg">
     </td>
     <td style="border: 1px solid black; padding: 5px;">
       <img title="Docker" alt="Docker" width="40px" src="https://www.docker.com/wp-content/uploads/2023/05/symbol_blue-docker-logo.png">
-    </td>
-    <td style="border: 1px solid black; padding: 5px;">
-      <img title="Figma" alt="Figma" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg">
     </td>
   </tr>
 </table>
@@ -128,4 +137,4 @@ These are the technologies that I specialize in:
 
 **• Thanks for watching •**
 <br />
-Last Edited on: 25/07/2024
+Last Edited on: 17/12/2024
