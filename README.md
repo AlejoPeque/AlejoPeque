@@ -63,7 +63,7 @@ These are the technologies that I specialize in:
       <img title="Next JS" alt="Next JS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg">
     </td>
     <td style="border: 1px solid black; padding: 5px;">
-      <img title="Gsap" alt="Gsap" width="40px" src="https://static.wikia.nocookie.net/logopedia/images/a/a5/GSAP_2023.svg/revision/latest/scale-to-width-down/300?cb=20231024190052">
+      <img title="GSAP" alt="GSAP" width="40px" src="https://static.wikia.nocookie.net/logopedia/images/a/a5/GSAP_2023.svg/revision/latest/scale-to-width-down/300?cb=20231024190052">
     </td>
      <td style="border: 1px solid black; padding: 5px;">
       <img title="Three JS" alt="Three JS" width="40px" src="https://themightyprogrammer.dev/post/threejs.png">
